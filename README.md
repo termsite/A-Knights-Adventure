@@ -1,3 +1,5 @@
+@import {Hacker}
+
 # A-Knights-Adventure
 
 ***A Free 2D Game Made In Godot 4***
